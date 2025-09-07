@@ -83,11 +83,6 @@ const evan = {
   <img src="https://ghchart.rshah.org/409ba5/evanbones" alt="Contribution Graph" width="100%">
 </div>
 
-## 💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
 ---
 
 <div align="center">
@@ -98,13 +93,6 @@ const evan = {
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.evanbowness.dev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bownessevan@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/538092285817257996)
-
-### ⚡ Fun Facts
-🎮 Minecraft Modding Enthusiast
-📱 Movie Nerd
-⚡ Music Producer/Guitarist
-🌍 Speak English & French
-☕ Coffee > Tea 
 
 </div>
 
