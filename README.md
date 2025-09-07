@@ -45,10 +45,6 @@ const evan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanbones&theme=radical&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evanbones&theme=react-dark&bg_color=20232a&hide_border=true">
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=evanbones&theme=radical&no-frame=false&no-bg=false&margin-w=4">
