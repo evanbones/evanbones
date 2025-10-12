@@ -12,29 +12,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const evan = {
-  code: ["Java", "Python", "JavaScript", "VB.NET", "C#", "SQL"],
-  askMeAbout: ["web dev", "databases", "system design"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Svelte"],
-      css: ["Tailwind", "Bootstrap"]
-    },
-    backEnd: {
-      js: ["Node", "Next.js"],
-      python: ["FastAPI"],
-      java: ["Spring Boot", "Maven"]
-    },
-    devOps: ["Azure DevOps", "Docker", "GitHub Actions"],
-    databases: ["Microsoft SQL Server", "MySQL"]
-  }
+  code: ["Java", "Python", "JavaScript", "TypeScript", "VB.NET", "C#", "SQL"],
+  tools: ["React", "Azure DevOps", "Docker", "GitHub Actions"]
 };
 ```
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evanbones&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -45,25 +32,25 @@ const evan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanbones&theme=radical&hide_border=true"/>
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=evanbones&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌱 Learning
+### Learning
 - System Design
 - Database Design/Querying
 
 </td>
 <td width="50%">
 
-### 🔭 Working On
+### Working On
 - Open Source Contributions
 - Personal Portfolio Website
 - Minecraft Mods
@@ -73,7 +60,7 @@ const evan = {
 </tr>
 </table>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://ghchart.rshah.org/409ba5/evanbones" alt="Contribution Graph" width="100%">
@@ -83,7 +70,7 @@ const evan = {
 
 <div align="center">
 
-### 🤝 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-bowness-478318334)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.evanbowness.dev)
