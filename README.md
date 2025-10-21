@@ -1,4 +1,4 @@
-# Hi there, I'm Evan Bowness 👋
+# Hi there, I'm Evan Bowness
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Game+Modder;Tech+Lover;Open+Source+Contributor;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
