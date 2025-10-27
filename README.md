@@ -1,7 +1,9 @@
-# Hi there, I'm Evan Bowness
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=1&color=F7897&center=true&vCenter=true&repeat=false&width=410&height=32&lines=HI%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Game+Modder;Tech+Lover;Open+Source+Contributor;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Game+Modder;Tech+Lover;Open+Source+Contributor;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=F7897&vCenter=true&size=22">
 </div>
 
 <div align="center">
@@ -16,8 +18,8 @@
 
 ```typescript
 const evan = {
-  code: ["Java", "Python", "JavaScript", "TypeScript", "VB.NET", "C#", "SQL"],
-  tools: ["React", "Azure DevOps", "Docker", "GitHub Actions"]
+  code: ["Java", "Python", "JavaScript/TypeScript", "VB.NET", "C#", "SQL"],
+  tools: ["React", "Azure DevOps", "Docker", "GitHub Actions", "VS Code", "IntelliJ IDEA", "Gradle"]
 };
 ```
 
@@ -29,12 +31,12 @@ const evan = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanbones&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanbones&theme=radical"/>
 </div>
 
 ## GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evanbones&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=evanbones&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 ## Current Focus
@@ -46,6 +48,7 @@ const evan = {
 ### Learning
 - System Design
 - Database Design/Querying
+- Software Engineering
 
 </td>
 <td width="50%">
