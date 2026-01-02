@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Evan+Bowness;Full+Stack+Developer;Open+Source+Contributor;Music+Lover;Coffee+Drinker&font=Inter&center=true&width=500&height=50&color=2f3136&vCenter=true&size=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Evan+Bowness;Full+Stack+Developer;Open+Source+Contributor;Music+Lover;Coffee+Drinker&font=Inter&center=true&width=500&height=50&color=ffffff&vCenter=true&size=30" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,5 +49,7 @@ Currently, I am attending university and contributing to open-source projects.
 ## Development Activity
 
 <div align="center">
-  <img src="https://github.com/evanbones/evanbones/releases/download/metrics/github-metrics.svg" alt="Metrics" width="100%">
+  <a href="https://github.com/evanbones/evanbones/actions">
+    <img src="./github-metrics.svg" alt="Evan's GitHub Metrics" width="100%">
+  </a>
 </div>
