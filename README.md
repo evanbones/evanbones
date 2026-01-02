@@ -27,7 +27,7 @@ Currently, I am attending university and contributing to open-source projects.
 
 ---
 
-## Technical Stack
+## Techn Stack
 
 **Languages**
 <br/>
@@ -43,10 +43,6 @@ Currently, I am attending university and contributing to open-source projects.
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-
----
-
-## Development Activity
 
 <div align="center">
   <a href="https://github.com/evanbones/evanbones/actions">
