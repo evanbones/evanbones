@@ -252,8 +252,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Marty Supreme, 2025 - ★★★★★</div>
-                                <div class="date">7 Jan 2026</div>
+                                <div class="title">Jaws, 1975 - ★★★★★</div>
+                                <div class="date">13 Jan 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -261,8 +261,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Christmas Story, 1983 - ★★★½</div>
-                                <div class="date">27 Dec 2025</div>
+                                <div class="title">Marty Supreme, 2025 - ★★★★★</div>
+                                <div class="date">7 Jan 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1317,7 +1317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2026, 23:20:11 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jan 2026, 00:20:31 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
