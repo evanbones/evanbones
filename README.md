@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Evan+Bowness;Full+Stack+Developer;Open+Source+Contributor;Music+Lover;Coffee+Drinker&font=Inter&center=true&width=500&height=50&color=ffffff&vCenter=true&size=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Evan+Bowness;Developer;Open+Source+Contributor;Music+Lover;Huge+Dork;Coffee+Drinker&font=Inter&center=true&width=500&height=50&color=ffffff&vCenter=true&size=30" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <br />
 
-## Hi there 👋
+## Hi there!
 
 I'm a full stack developer based in Canada with a focus on system design. My background includes work in the Minecraft modding community, where I learned Java and how to use Git. I've also written software using VB.net, Python, FastAPI, and Next.js. 
 
