@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2102 Commits
+                            2107 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -223,14 +223,14 @@
                             <div class="track">
                                 <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Promises</div>
+                                    <div class="name">Lockdown</div>
                                     <div class="artist">Fugazi</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lockdown</div>
+                                    <div class="name">Provisional</div>
                                     <div class="artist">Fugazi</div>
                                 </div>
                             </div>
@@ -313,7 +313,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~11.48
+                            Average per day at ~11.50
                         </div>
                     </section>
                 </div>
@@ -1296,10 +1296,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 5.368421052631579)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6315789473684212 0,1.631578947368421 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.631578947368421 1.7,2.6315789473684212 z"/>
+                            <g transform="translate(0, 4.578947368421053)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4210526315789473 0,2.4210526315789473 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4210526315789473 1.7,3.4210526315789473 z"/>
                             </g>
                         </g>
                     </g>
@@ -1307,7 +1307,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2026, 18:59:03 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2026, 22:24:18 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
