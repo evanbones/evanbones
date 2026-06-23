@@ -252,8 +252,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hard Boiled, 1992 - ★★★★½</div>
-                                <div class="date">23 May 2026</div>
+                                <div class="title">Hotel Transylvania 3: Summer Vacation, 2018 - ★★</div>
+                                <div class="date">23 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -261,8 +261,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Double Indemnity, 1944 - ★★★★★</div>
-                                <div class="date">29 Apr 2026</div>
+                                <div class="title">Hard Boiled, 1992 - ★★★★½</div>
+                                <div class="date">23 May 2026</div>
                             </div>
                         </div>
                     </section>
@@ -1312,7 +1312,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2026, 23:41:10 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2026, 03:29:32 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
