@@ -36,8 +36,6 @@ Currently, I'm attending university for computer science with a minor in mathema
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
-## Metrics
-
 <div align="center">
   <a href="https://github.com/evanbones/evanbones/actions">
     <img src="./github-metrics.svg" alt="Evan's GitHub Metrics" width="100%">
