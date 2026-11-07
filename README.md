@@ -18,14 +18,9 @@
 
 ## Hi there!
 
-I'm a full stack developer based in Canada with a focus on system design. My background includes work in the Minecraft modding community, where I learned Java and how to use Git. I've also written software using VB.net, Python, FastAPI, and Next.js. 
+I'm a developer based in Canada with a focus on system design. My background includes work in the Minecraft modding community, where I learned Java and how to use Git. I've also written software using VB.net, Python, FastAPI, React, and Next.js. 
 
 Currently, I'm attending university for computer science with a minor in mathematics, and contributing to open-source projects.
-
-* **Core Focus:** Java, Python, TypeScript, system design
-* **Interests:** Music production, math, cinema, and game design
-
-## Tech Stack
 
 **Languages**
 <br/>
@@ -38,7 +33,6 @@ Currently, I'm attending university for computer science with a minor in mathema
 **Infrastructure & Tools**
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
